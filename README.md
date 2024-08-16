@@ -48,6 +48,30 @@ GitHub Copilot Chat	Interface de chat para devs integrada com VS Code e Visual S
 GitHub Copilot para solicitações de pull	Adiciona tags automáticas de IA em PRs para revisões.
 GitHub Copilot for Docs	Respostas geradas por IA sobre documentação.
 
+## Desafio 3
+Descrição
+O Microsoft Copilot Studio é uma plataforma avançada que utiliza IA para aumentar a eficiência e capacidade de resposta em ambientes corporativos. Complete o código associando cada breve descrição ou funcionalidade do Microsoft Copilot Studio com sua funcionalidade.
+Saiba mais: Copilot no Bing
+Entrada
+A entrada consiste em um recurso ou funcionalidade específica do Github Copilot, para a qual você deve retornar a descrição correspondente. Os seguintes recursos são considerados válidos para este desafio de código:
+- Gerar conversas
+- Transforme conversa em ação
+- Da vida aos seus sistemas
+- Trazer seus próprios modelos do Azure
+Saída
+A saída esperada é a descrição associada ao recurso ou funcionalidade fornecido como entrada. Seguem as descrições possíveis:
+- Aperfeiçoa respostas do Copiloto com links internos.
+- Integra Power Platform, Power Automate e prompts de IA.
+- Seleciona conectores de dados para eficiência operacional.
+- Configura, treina e conecta serviços no Azure, como o Azure OpenAI.
+Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+Entrada	Saída
+Gerar conversas	Aperfeiçoa respostas do Copiloto com links internos.
+Transforme conversa em ação	Integra Power Platform, Power Automate e prompts de IA.
+Da vida aos seus sistemas	Seleciona conectores de dados para eficiência operacional.
+
+
 
 
 	
