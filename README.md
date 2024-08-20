@@ -73,5 +73,16 @@ Da vida aos seus sistemas	Seleciona conectores de dados para eficiência operaci
 
 
 
+## Desafio de projeto
+Foi elaborado um código na linguagem Python de visão computacional utilizando a rede YOLO (You Only Look Once) para identificar no video os generos(masculino e feminino.
+Considerando o tempo disponível para finalizar o projeto não foi possível trabalhar no treinamento e refinamento do código para obter um melhor resultado.
+
+
+
+https://github.com/user-attachments/assets/882eb907-0ff7-4244-b7bf-e030b5779361
+
+
+
+
 
 	
